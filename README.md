@@ -11,10 +11,11 @@
 > - data cleaning (many data cleaning concepts I learned)
 > - EDA (notebook for many things I learned using pandas, matplotlib,seaborn)
 > - pillow (basics of pillow library)
+> - pytesserect basics (contains only basics of pytesserect)
 
 # I am currently working on : 
 > - Making another pillow notebook
-> - Notebook for Pytesserect
+> - Making another notebook for Pytesserect
 > - Notebook for openCV
 > - Notebook for numpy
 > - Notebook for scipy
